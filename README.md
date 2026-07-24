@@ -10,7 +10,7 @@ I'm a **second-year Software Engineering student** with a **minor in Accounting*
 
 
 - **Programming Languages:** Python, Java, C, HTML, CSS, SQL, R
-- **Frameworks & Libraries:** React, Django, Flask, Tkinter, NumPy, Pandas, Matplotlib, request, TensorFlow, Scikit-Learn
+- **Frameworks & Libraries:** React, Django, Flask, Tkinter, NumPy, Pandas, Matplotlib, request, TensorFlow
 - **Operating Systems & Tools:** Linux, Git, GitHub, VS Code, Excel, SAP, Power BI
   
 
