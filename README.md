@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Yash Gandhi!
+# 👋 Hi, I'm Yash Gandhi!
 
 ## 🚀 About Me
 
@@ -16,4 +16,4 @@ I'm a **second-year Software Engineering student** with a **minor in Accounting*
 - **GitHub:** [github.com/YashGandhi07](https://github.com/YashGandhi07)
 - **Email:** ygandhi@uoguelph.ca
 
-✨ *Always open to collaborating on projects and turning ideas into reality!* ✨
+📌 *Always open to collaborating on projects and turning ideas into reality!* ✨
