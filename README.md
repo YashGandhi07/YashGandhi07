@@ -1,16 +1,20 @@
-## Hi there 👋
+## 👋 Hi there, I'm Yash Gandhi
 
-<!--
-**YashGandhi07/YashGandhi07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+I'm a second-year Software Engineering student with a minor in Accounting, with a strong background in **AI and financial reporting**. My passion lies in **machine learning, financial analysis, and automation, and I enjoy building software that brings efficiency to accounting and financial data**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Technical Skills
+
+- **Programming Languages:** Python, Java, C, HTML, CSS, SQL, R
+- **Frameworks & Libraries:** React, Django, Flask, Tkinter, NumPy, Pandas, Matplotlib, request, TensorFlow, Scikit-Learn
+- **Operating Systems & Tools:** Linux, Git, GitHub, VS Code, Excel, SAP, Power BI
+
+
+## 🔗 Connect With Me
+
+- **LinkedIn:** [linkedin.com/in/yash-gandhi](https://www.linkedin.com/in/yash-gandhi-796ba9332/)
+- **GitHub:** [github.com/YashGandhi07](https://github.com/YashGandhi07)
+- **Email:** [ygandhi@uoguelph.ca](mailto:ygandhi@uoguelph.ca)
+
+✨ *Always open to collaborating on projects and turning ideas into reality!* ✨
