@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Yash Gandhi
+# 👋 Hi there, I'm Yash Gandhi!
 
 ## 🚀 About Me
 
