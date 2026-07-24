@@ -2,7 +2,8 @@
 
 ## 🚀 About Me
 
-I'm a second-year Software Engineering student with a minor in Accounting, with a strong background in **AI and financial reporting**. My passion lies in **machine learning, financial analysis, and automation, and I enjoy building software that brings efficiency to accounting and financial data**.
+I'm a **second-year Software Engineering student** with a **minor in Accounting**, with a strong background in **AI and financial reporting**. My passion lies in **machine learning, financial analysis, and automation**, and I enjoy building software that brings efficiency to **accounting and financial data**.
+
 
 ## 💻 Technical Skills
 
