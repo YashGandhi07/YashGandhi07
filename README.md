@@ -8,9 +8,10 @@ I'm a **second-year Software Engineering student** with a strong foundation in *
 ## 💻 Technical Skills
 
 
-- **Programming Languages:** Python, Java, C, HTML, CSS, SQL, R
-- **Frameworks & Libraries:** React, Django, Flask, Tkinter, NumPy, Pandas, Matplotlib, request, TensorFlow
-- **Operating Systems & Tools:** Linux, Git, GitHub, VS Code, Excel, SAP, Power BI
+- **Programming Languages:** Python, Java, C, HTML, CSS, SQL, R, TypeScript
+- **Frameworks & Libraries:** React, NumPy, Pandas, Matplotlib, requests, TensorFlow, Scikit-Learn, Next.js, FastAPI,
+ONNX Runtime, OpenCV, Django, Flask
+- **Operating Systems & Tools:** Linux, Git, GitHub, VS Code, Excel, PostgreSQL, Docker
   
 
 ## 🔗 Connect With Me
