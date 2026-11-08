@@ -1,14 +1,12 @@
-# 👋  Hi, I'm Yash Gandhi!
+# 👋 Hi, I'm Yash Gandhi
 
 ## About Me
 
 I'm a **Software Engineering student at the University of Guelph**, specializing in **Artificial Intelligence** and minoring in **Accounting**.
 
-I have hands-on experience in **software development, AI/ML, full-stack applications, and data analytics** through internships and independent projects. I enjoy designing and building software that solves meaningful problems, improves efficiency, and connects technical innovation with real-world applications.
+Through professional internships and independent projects, I've gained practical experience in software development, full-stack applications, machine learning, and data analytics. I enjoy designing and developing reliable software, solving technical challenges, and building solutions that improve efficiency and address real-world problems.
 
-I'm particularly interested in **software engineering, artificial intelligence, machine learning, and backend development**, with a growing focus on **systems engineering, high-performance computing, and AI infrastructure**.
-
-Beyond development, I also enjoy the **analytical and business side of technology**, including exploring how software, data, and automation can improve business processes and support better decision-making.
+My primary interests include **software engineering, artificial intelligence, machine learning, and backend development**, with an expanding focus on systems architecture, AI infrastructure, and high-performance computing. I also value the intersection of technology and business, particularly how software, automation, and data-driven solutions can improve operations and support strategic decision-making.
 
 ## Technical Skills
 
@@ -16,7 +14,7 @@ Beyond development, I also enjoy the **analytical and business side of technolog
 
 **AI/ML & Data Science:** PyTorch, TensorFlow, scikit-learn, NumPy, Pandas, ONNX, OpenCV
 
-**Frontend & Backend:** React, Next.js, FastAPI, REST APIs
+**Software Development:** React, Next.js, FastAPI, REST APIs
 
 **Databases:** PostgreSQL, MySQL, MongoDB, Firebase
 
@@ -28,10 +26,10 @@ Beyond development, I also enjoy the **analytical and business side of technolog
 
 ## Current Focus
 
-- Developing advanced software engineering and AI/ML skills
-- Exploring scalable backend systems and software architecture
-- Learning GPU computing, performance optimization, and AI infrastructure
-- Building technically challenging applications that combine software engineering, machine learning, and practical problem-solving
+- Strengthening my expertise in software architecture, backend engineering, and scalable applications
+- Expanding my knowledge of machine learning engineering, model optimization, and AI infrastructure
+- Exploring GPU computing, systems programming, and high-performance computing
+- Developing technically challenging applications that integrate software engineering and artificial intelligence
 
 ## Connect With Me
 
